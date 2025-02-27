@@ -1,4 +1,4 @@
-<img src="banner_github.gif" alt="GitHub Banner" width="100%" height="300px"/>
+<img src="banner_github.gif" alt="GitHub Banner" width="100%" height="250px"/>
 
 # "Hello World", I'm Marchel, a Web developer 👋🏼:
 👨🏼‍🎓 Studying Information Technology at President University
